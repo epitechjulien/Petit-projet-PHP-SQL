@@ -1,6 +1,8 @@
 # Petit-projet-PHP-SQL
 
 Petit exercice pour m'exercer sur PHP / SQL.
+
+
 Voici la demande client :
 
 - Votre chef de projet vous propose de créer un prototype pour un projet client. Il s'agit d'une plateforme
