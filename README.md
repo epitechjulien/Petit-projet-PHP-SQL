@@ -10,4 +10,5 @@ et acheter ou louer un appartement d’autre part.
 
 IMPORTANT : 
 Nécessite un serveur type XAMPP.
+
 Importer le fichier .SQL dans une une base de donnée avant exécution.
