@@ -9,6 +9,5 @@ plateforme de mise en relation pour les utilisateurs qui souhaitent vendre ou lo
 et acheter ou louer un appartement d’autre part.
 
 IMPORTANT : 
-Nécessite un serveur type XAMPP.
-
-Importer le fichier .SQL dans une une base de donnée avant exécution.
+- Nécessite un serveur type XAMPP.
+- Importer le fichier .SQL dans une une base de donnée avant exécution.
